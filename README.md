@@ -1,4 +1,6 @@
 ## Amazon Clone-Project
+by Balaram Sabat
+Date: 28/01/2024
 - Here, I have created Amazon clone project for practice.
 - I have used HTML5 and CSS for creating the Amazon site. 
 ---
