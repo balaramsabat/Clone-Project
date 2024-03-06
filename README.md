@@ -1,4 +1,4 @@
-## Amazon Clone-Project
+## Amazon Clone - Project
 * By Balaram Sabat
 
 ---
